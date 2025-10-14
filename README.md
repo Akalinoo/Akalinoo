@@ -1,7 +1,7 @@
 # Hi, I'm Talha
 
 Computer Science student at Ankara University  
-Passionate about UI/UX Design, Android Development and Machine Learning
+Passionate about UI/UX Design, Front-End Development and Android Development
 Always learning & building projects to improve my skills  
 
 ---

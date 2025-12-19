@@ -9,7 +9,7 @@ Always learning & building projects to improve my skills
 ## Featured Projects
 - [**Pomopix**](https://github.com/Akalinoo/pomopix) – Kotlin & Jetpack Compose Pomodoro Timer with Foreground Service, customizable work/break durations, and notification support.
 - [**Shopping Checklist**](https://github.com/Akalinoo/shopping-checklist) – A modern, persistent shopping list app built with React and Tailwind CSS.
-- [**Kaykay Education Site**](https://github.com/Akalinoo/kaykay-egitim-sitesi) – ASP.NET WebForms project with MySQL backend and master page navigation.  
+- [**Skate Education Site**](https://github.com/Akalinoo/kaykay-egitim-sitesi) – ASP.NET WebForms project with MySQL backend and master page navigation.  
 
 ---
 

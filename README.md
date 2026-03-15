@@ -22,5 +22,4 @@ Always learning & building projects to improve my skills
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/talha-akalin/
-- GitHub: https://github.com/Akalinoo
 - Email: bytlh06@windowslive.com
